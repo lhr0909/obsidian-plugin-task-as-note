@@ -2,6 +2,8 @@
 
 This is an Obsidian plugin that syncs task statuses into note properties.
 
+![demo](./demo.mp4)
+
 ## Motivation
 
 Obsidian v1.9.0 adds Bases feature, which is a powerful way to organize your notes in a structured way. When I was trying to migrate my vault to use Bases for task management, I found that there isn't a way to surface task statuses in note properties. This plugin aims to fill that gap.
