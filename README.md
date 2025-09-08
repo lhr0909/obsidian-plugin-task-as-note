@@ -2,7 +2,7 @@
 
 This is an Obsidian plugin that syncs task statuses into note properties.
 
-https://github.com/user-attachments/assets/53ce56ec-1fce-4fff-94e0-3bbb06f0fb05
+![demo](https://github.com/user-attachments/assets/53ce56ec-1fce-4fff-94e0-3bbb06f0fb05)
 
 
 ## Motivation
